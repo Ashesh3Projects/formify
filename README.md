@@ -10,6 +10,12 @@ This project is a Form Management System similar to Google Forms. It is built us
 - Share forms with others
 - View and manage form responses
 
+## Screenshots
+![image](https://github.com/Ashesh3Projects/formy/assets/3626859/8ff01798-d643-41ef-978a-4976ecf6804a)
+![image](https://github.com/Ashesh3Projects/formy/assets/3626859/4c3cadbc-54a1-4930-85b1-031ba259c141)
+![image](https://github.com/Ashesh3Projects/formy/assets/3626859/f77465e8-b573-44c8-9299-1a841d61827b)
+![image](https://github.com/Ashesh3Projects/formy/assets/3626859/bc4cf2c5-5ac1-4ee0-ad65-8b0d645cdeb3)
+
 ## Setup and Installation
 
 ### Prerequisites
